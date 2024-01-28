@@ -1,0 +1,14 @@
+.content-title{
+    display: flex;
+    justify-content: space-between;
+}
+.btn-action a{
+    color: black;
+}
+.btn-action a:hover
+{
+    text-decoration: none;
+}
+.btn-action a:first-child{
+    margin-right: 5px;
+}
